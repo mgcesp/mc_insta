@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Stack direction="column" height="100vh">
       <Topbar></Topbar>
-      <Box bgcolor="green" flex="1" overflow="hidden">
+      <Box bgcolor="#F5F5F5" flex="1" overflow="hidden">
         <Stack direction="row">
           <Sidebar></Sidebar>
           <Feed></Feed>
