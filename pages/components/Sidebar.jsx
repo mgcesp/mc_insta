@@ -26,7 +26,7 @@ const Sidebar = () => {
   return (
     <Box bgcolor="#FFF" sx={{ display: { xs: "none", sm: "flex" } }}>
       <List>
-        <ListItemButton divider={"true"}>
+        <ListItemButton divider={true}>
           <ListItemIconStyled sx={{ display: { xs: "none", sm: "block"} }}>
             <Instagram />
           </ListItemIconStyled>
