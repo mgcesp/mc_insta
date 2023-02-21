@@ -24,7 +24,7 @@ const Feed = () => {
           subheader="Jan 1, 2023"
         />
         <CardMedia
-          sx={{ height: 240 }}
+          sx={{ height: "240px" }}
           image="https://source.unsplash.com/random"
           title="Post"
         />
@@ -58,7 +58,7 @@ const Feed = () => {
           subheader="Jan 2, 2023"
         />
         <CardMedia
-          sx={{ height: 240 }}
+          sx={{ height: "240px" }}
           image="https://source.unsplash.com/random"
           title="Post"
         />
@@ -92,7 +92,7 @@ const Feed = () => {
           subheader="Jan 3, 2023"
         />
         <CardMedia
-          sx={{ height: 240 }}
+          sx={{ height: "240px" }}
           image="https://source.unsplash.com/random"
           title="Post"
         />
